@@ -1,16 +1,40 @@
-### Hi there 👋
+# CHAYUT ORAPINPATIPAT 👋
 
-<!--
-**chayuto/chayuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-	Multi-skilled system software engineer with extensive experience in 
+start-ups, medical devices, IoTs and wearable technologies
+-	Proficient with programming languages, integrations, and libraries
+-	Strong embedded system and, electronics design and prototyping skills
 
-Here are some ideas to get you started:
+## Stacks (previous/current)
+#### Languages
+C, MATLAB, C#, JAVA, Kotlin, Python, R, Objective C, Ruby 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frameworks/Libraries 
+Ruby-on-Rails, OpenCV
+
+#### Embedded Systems
+ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
+
+#### DevOps/etc.
+Firebase, AWS, Docker, Postgres, Software Defined Networking (SDN) 
+
+#### Integrations
+
+
+## Publication	
+
+#### TeleScope: Flow-Level Video Telemetry using SDN
+
+- European Conference on Software Defined Networks (EWSDN), The Hague, Netherlands Oct 6, 2016
+- a low-cost system comprising a commodity SDN switch and a commodity server, to identify and profile individual video flows at 
+line-rate
+- https://ieeexplore.ieee.org/document/7956048
+
+## Patents
+- USD872854S1: Inventor - Portable respirator 
+- US20200282242A1: Inventor - Portable personal respirator and use thereof 
+
+ 
+
+
+
