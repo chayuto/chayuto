@@ -5,20 +5,18 @@ start-ups, medical devices, IoTs and wearable technologies
 -	Proficient with programming languages, integrations, and libraries
 -	Strong embedded system and, electronics design and prototyping skills
 
-## Stacks (previous/current)
+## Stacks (current and previous)
 #### Languages
 C, MATLAB, C#, JAVA, Kotlin, Python, R, Objective C, Ruby 
 
-#### Frameworks/Libraries 
-Ruby-on-Rails, OpenCV
+#### Frameworks/Libraries/Platforms 
+Ruby-on-Rails, OpenCV, Android, Software Defined Networking (SDN)
 
 #### Embedded Systems
 ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
 
 #### DevOps/etc.
-Firebase, AWS, Docker, Postgres, Software Defined Networking (SDN) 
-
-#### Integrations
+Firebase, AWS, Docker, Postgres  
 
 
 ## Publication	
