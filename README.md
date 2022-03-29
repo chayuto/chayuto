@@ -15,8 +15,12 @@ Ruby-on-Rails, OpenCV, Android, Software Defined Networking (SDN)
 #### Embedded Systems
 ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
 
+STM32F103C, BlueGiga BLE112, Nordic nRF52840, MSP430FR
+
 #### DevOps/etc.
-Firebase, AWS, Docker, Postgres  
+Firebase, AWS, Docker, Postgres 
+
+### Integration
 
 
 ## Publication	
@@ -32,6 +36,8 @@ line-rate
 - USD872854S1: Inventor - Portable respirator 
 - US20200282242A1: Inventor - Portable personal respirator and use thereof 
 
+## 
+Davinci Resolve, Adobe Lightroom
  
 
 
