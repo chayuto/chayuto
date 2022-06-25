@@ -10,15 +10,15 @@ start-ups, medical devices, IoTs and wearable technologies
 C, MATLAB, C#, JAVA, Kotlin, Python, R, Objective C, Ruby 
 
 #### Frameworks/Libraries/Platforms 
-Ruby-on-Rails, OpenCV, Android, Software Defined Networking (SDN)
+Ruby-on-Rails, OpenCV, Android Native, Software Defined Networking (SDN)
 
 #### Embedded Systems
 ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
 
 STM32F103C, BlueGiga BLE112, Nordic nRF52840, MSP430FR
 
-#### DevOps/etc.
-Firebase, AWS, Docker, Postgres 
+#### DevOps/CICD/etc.
+Firebase (Analytics, FCM, FireStore, Crashlytics), AWS (EC2, RDS, ECR, Fargage, SNS, R53), Fastlane, BuildKite, Docker, Postgres 
 
 ### Integration
 
