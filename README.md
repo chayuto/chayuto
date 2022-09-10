@@ -7,7 +7,7 @@ start-ups, medical devices, IoTs and wearable technologies
 
 ## Stacks (current and previous)
 #### Languages
-C, MATLAB, C#, JAVA, Kotlin, Python, R, Objective C, Ruby 
+C, C#, JAVA, Go, Python, Kotlin, Objective C, Ruby, MATLAB R,
 
 #### Frameworks/Libraries/Platforms 
 Ruby-on-Rails, OpenCV, Android Native, Software Defined Networking (SDN)
@@ -18,7 +18,7 @@ ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
 STM32F103C, BlueGiga BLE112, Nordic nRF52840, MSP430FR
 
 #### DevOps/CICD/etc.
-Firebase (Analytics, FCM, FireStore, Crashlytics), AWS (EC2, RDS, ECR, Fargage, SNS, R53), Fastlane, BuildKite, Docker, Postgres 
+Firebase (Analytics, FCM, FireStore, Crashlytics), AWS (EC2, RDS, ECS, ECR, Fargage, SNS, R53), Fastlane, BuildKite, Docker, Postgres 
 
 ### Integration
 
@@ -34,7 +34,9 @@ line-rate
 
 ## Patents
 - USD872854S1: Inventor - Portable respirator 
+ https://patents.google.com/patent/USD872854S1
 - US20200282242A1: Inventor - Portable personal respirator and use thereof 
+ https://patents.google.com/patent/US20200282242A1
 
 ## 
 Davinci Resolve, Adobe Lightroom
