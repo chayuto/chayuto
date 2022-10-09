@@ -7,10 +7,10 @@ start-ups, medical devices, IoTs and wearable technologies
 
 ## Stacks (current and previous)
 #### Languages
-C, C#, JAVA, Go, Python, Kotlin, Objective C, Ruby, MATLAB R,
+C, .NET C#, JAVA, Go (GoLang), Python, Kotlin, Objective C, Ruby, MATLAB, R
 
 #### Frameworks/Libraries/Platforms 
-Ruby-on-Rails, OpenCV, Android Native, Software Defined Networking (SDN)
+Ruby-on-Rails (5/6/7), Android Native, Software Defined Networking (SDN), OpenCV
 
 #### Embedded Systems
 ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
@@ -18,7 +18,11 @@ ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
 STM32F103C, BlueGiga BLE112, Nordic nRF52840, MSP430FR
 
 #### DevOps/CICD/etc.
-Firebase (Analytics, FCM, FireStore, Crashlytics), AWS (EC2, RDS, ECS, ECR, Fargage, SNS, R53), Fastlane, BuildKite, Docker, Postgres 
+Firebase (Analytics, FCM, FireStore, Crashlytics), 
+AWS (EC2, RDS, ECS, ECR, Fargage, SNS, R53), Fastlane, BuildKite, Docker, 
+
+#### DB/storeage
+Postgres, MSSQL, Kafka, Redis, InfluxDB
 
 ### Integration
 
