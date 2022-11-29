@@ -14,17 +14,18 @@ Ruby-on-Rails (5/6/7), Android Native, Software Defined Networking (SDN), OpenCV
 
 #### Embedded Systems
 ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
-
 STM32F103C, BlueGiga BLE112, Nordic nRF52840, MSP430FR
 
 #### DevOps/CICD/etc.
 Firebase (Analytics, FCM, FireStore, Crashlytics), 
-AWS (EC2, RDS, ECS, ECR, Fargage, SNS, R53), Fastlane, BuildKite, Docker, 
+AWS (EC2, RDS, ECS, ECR, Fargage, SNS, R53), Fastlane, BuildKite,
+Docker, Ansible
 
 #### DB/storeage
-Postgres, MSSQL, Kafka, Redis, InfluxDB
+Postgres, MSSQL, Kafka, Redis, InfluxDB, Timescale, ClickHouse
 
-### Integration
+#### Integrations
+Payroll/CRM: PipeDrive, SalesForce, Xero, MYOB, Deputy
 
 
 ## Publication	
