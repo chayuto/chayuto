@@ -10,7 +10,7 @@ start-ups, medical devices, IoTs and wearable technologies
 C, .NET C#, JAVA, Go (GoLang), Python, Kotlin, Objective C, Ruby, MATLAB, R
 
 #### Frameworks/Libraries/Platforms 
-Ruby-on-Rails (5/6/7), Android Native, Software Defined Networking (SDN), OpenCV
+Ruby-on-Rails (5/6/7), Android Native, Software Defined Networking (SDN), OpenCV, Prefect
 
 #### Embedded Systems
 ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
@@ -25,7 +25,7 @@ Docker, Ansible
 Postgres, MSSQL, Kafka, Redis, InfluxDB, Timescale, ClickHouse
 
 #### Integrations
-Payroll/CRM: PipeDrive, SalesForce, Xero, MYOB, Deputy
+Payroll/CRM: PipeDrive, SalesForce, Xero, MYOB, Deputy, OpenAI API
 
 
 ## Publication	
