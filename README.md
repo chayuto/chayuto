@@ -12,6 +12,9 @@ C, .NET C#, JAVA, Go (GoLang), Python, Kotlin, Objective C, Ruby, MATLAB, R
 #### Frameworks/Libraries/Platforms 
 Ruby-on-Rails (5/6/7), Android Native, Software Defined Networking (SDN), OpenCV, Prefect
 
+#### Cyber Security
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/chayut.o.png)
+
 #### Embedded Systems
 ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
 STM32F103C, BlueGiga BLE112, Nordic nRF52840, MSP430FR
