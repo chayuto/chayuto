@@ -50,7 +50,9 @@ line-rate
 
 ## 
 Davinci Resolve, Adobe Lightroom
- 
 
+----------
+ 
+![Boinc](https://www.boincstats.com/signature/-1/bam/39132/sig.png)
 
 
