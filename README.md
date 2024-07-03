@@ -12,7 +12,8 @@ C, .NET C#, JAVA, Go (GoLang), Python, Kotlin, Objective C, Ruby, MATLAB, R
 #### Frameworks/Libraries/Platforms 
 Ruby-on-Rails (5/6/7), Android Native, Software Defined Networking (SDN), OpenCV, Prefect
 
-#### Cyber Security
+#### Network Security
+Zeek, Suricata, Falco
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/chayut.o.png)
 
 #### Embedded Systems
