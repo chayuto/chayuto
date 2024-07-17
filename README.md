@@ -13,7 +13,7 @@ C, .NET C#, JAVA, Go (GoLang), Python, Kotlin, Objective C, Ruby, MATLAB, R
 Ruby-on-Rails (5/6/7), Android Native, Software Defined Networking (SDN), OpenCV, Prefect
 
 #### Network Security
-Zeek, Suricata, Falco
+Bro/Zeek👁️, Suricata🐿️, Falco🦅, Tetragon🐝
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/chayut.o.png)
 
