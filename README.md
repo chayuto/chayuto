@@ -22,15 +22,14 @@ ARM CORTEX M3/M4, ESP32 IDF, MSP430, BLE GATT, Altium
 STM32F103C, BlueGiga BLE112, Nordic nRF52840, MSP430FR
 
 #### DevOps/CICD/etc.
-Firebase (Analytics, FCM, FireStore, Crashlytics), 
-AWS (EC2, RDS, ECS, ECR, Fargage, SNS, R53), Fastlane, BuildKite,
-Docker, Ansible
+Firebase, AWS, Fastlane, BuildKite,
+Docker, Ansible, Kubernetes 
 
 #### DB/storeage
 Postgres, MSSQL, Kafka, Redis, InfluxDB, Timescale, ClickHouse
 
 #### Integrations
-Payroll/CRM: PipeDrive, SalesForce, Xero, MYOB, Deputy, OpenAI API
+Payroll/CRM: PipeDrive, SalesForce, Xero, MYOB, Deputy, 
 
 
 ## Publication	
@@ -47,6 +46,9 @@ line-rate
  https://patents.google.com/patent/USD872854S1
 - US20200282242A1: Inventor - Portable personal respirator and use thereof 
  https://patents.google.com/patent/US20200282242A1
+
+## Training 
+BlackHat USA 2024: Hacking and Securing Cloud Infrastructure
 
 ## 
 Davinci Resolve, Adobe Lightroom
