@@ -1,5 +1,6 @@
 # CHAYUT ORAPINPATIPAT 👋
 
+🌐 [www.chayuto.com](https://www.chayuto.com)
 -	Multi-skilled system software engineer with extensive experience in 
 start-ups, medical devices, IoTs and wearable technologies
 -	Proficient with programming languages, integrations, and libraries
@@ -10,7 +11,7 @@ start-ups, medical devices, IoTs and wearable technologies
 C, .NET C#, JAVA, Go (GoLang), Python, Kotlin, Objective C, Ruby, MATLAB, R
 
 #### Frameworks/Libraries/Platforms 
-Ruby-on-Rails (5/6/7), Android Native, Software Defined Networking (SDN), OpenCV, Prefect
+Ruby-on-Rails (5/6/7/8), Android Native, Software Defined Networking (SDN), OpenCV, Prefect
 
 #### Network Security
 Bro/Zeek👁️, Suricata🐿️, Falco🦅, Tetragon🐝
