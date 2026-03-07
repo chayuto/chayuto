@@ -7,8 +7,8 @@ start-ups, medical devices, IoTs and wearable technologies
 -	Strong embedded system and, electronics design and prototyping skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayuto&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayuto&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chayuto&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chayuto&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 ## Stacks (current and previous)
