@@ -2,9 +2,9 @@
 
 🌐 [www.chayuto.com](https://www.chayuto.com)
 -	Multi-skilled system software engineer with extensive experience in 
-start-ups, medical devices, IoTs and wearable technologies
+start-ups, AI, medical devices, IoTs and wearable technologies
 -	Proficient with programming languages, integrations, and libraries
--	Strong embedded system and, electronics design and prototyping skills
+-	Strong embedded system, electronics design and prototyping skills
 
 ## Stacks (current and previous)
 
