@@ -7,6 +7,10 @@ start-ups, medical devices, IoTs and wearable technologies
 -	Strong embedded system and, electronics design and prototyping skills
 
 ## Stacks (current and previous)
+
+#### AI/ML
+MLOps training pipeline, CrewAI Multimodal, Amazon Textract, model fine-tuning
+
 #### Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cs,java,go,python,kotlin,ruby,matlab,r" />
@@ -32,7 +36,7 @@ STM32F103C, BlueGiga BLE112, Nordic nRF52840, MSP430FR
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=firebase,aws,docker,ansible,kubernetes" />
 </a>
-<br> *Fastlane, BuildKite*
+<br> *Fastlane, BuildKite, Bitbucket Pipeline, Github Actions*
 
 #### DB/Storage
 <a href="https://skillicons.dev">
