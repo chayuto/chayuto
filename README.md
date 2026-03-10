@@ -1,5 +1,14 @@
 # CHAYUT ORAPINPATIPAT 👋
 
+<p align="left">
+  <a href="https://huggingface.co/chayuto" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Profile"/>
+  </a>
+  <a href="https://rubygems.org/profiles/chayut_o" target="_blank">
+    <img src="https://img.shields.io/badge/RubyGems-Profile-E9573F?style=for-the-badge&logo=rubygems&logoColor=white" alt="RubyGems Profile"/>
+  </a>
+</p>
+
 🌐 [www.chayuto.com](https://www.chayuto.com)
 -	Multi-skilled system software engineer with extensive experience in 
 start-ups, AI, medical devices, IoTs and wearable technologies
