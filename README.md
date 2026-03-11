@@ -1,15 +1,12 @@
 # CHAYUT ORAPINPATIPAT 👋
 
-<p align="left">
-  <a href="https://huggingface.co/chayuto" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Profile"/>
-  </a>
-  <a href="https://rubygems.org/profiles/chayut_o" target="_blank">
-    <img src="https://img.shields.io/badge/RubyGems-Profile-E9573F?style=for-the-badge&logo=rubygems&logoColor=white" alt="RubyGems Profile"/>
-  </a>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/chayuto?label=Follow&style=social)](https://github.com/chayuto)
+[![Website](https://img.shields.io/badge/Website-chayuto.com-blue)](https://www.chayuto.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-chayuto-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/chayuto)
+[![RubyGems](https://img.shields.io/badge/RubyGems-chayut__o-E9573F?logo=rubygems&logoColor=white)](https://rubygems.org/profiles/chayut_o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chayuto-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/chayuto)
 
-🌐 [www.chayuto.com](https://www.chayuto.com)
+
 -	Multi-skilled system software engineer with extensive experience in 
 start-ups, AI, medical devices, IoTs and wearable technologies
 -	Proficient with programming languages, integrations, and libraries
