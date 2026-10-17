@@ -65,6 +65,9 @@ Payroll/CRM: PipeDrive, SalesForce, Xero, MYOB, Deputy,
 - 📄 **[USD872854S1: Portable respirator](https://patents.google.com/patent/USD872854S1)** (Inventor)
 - 📄 **[US20200282242A1: Portable personal respirator and use thereof](https://patents.google.com/patent/US20200282242A1)** (Inventor)
 
+## Certifications
+**ISC2 2026:** Certified in Cybersecurity (CC)
+
 ## Training 
 **BlackHat USA 2024:** Hacking and Securing Cloud Infrastructure
 
